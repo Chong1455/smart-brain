@@ -5,13 +5,17 @@
 
 A website that detects human face with Clarifai API and display it with a bounding box.
 
-
 # Deployed version
 Live demo👉: https://smart-brain-cks.herokuapp.com/
 
-# Prerequisites
-Please install or have installed the following:
-* nodejs and npm
+# Build with
+* React - Create UI components
+* Express - Web application framework
+* NodeJS - JS runtime environment
+* PostgreSQL - Database
+* Clarifai - Face detection API
+* Postman - API testing
+* Heroku - Cloud platform
 
 # How to use
 1. Clone this repo
